@@ -1,11 +1,17 @@
-### Hi there 👋
+### 프론트엔드 개발자 이지원입니다.
+
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%23FFFFFF&labelColor=%2361DAFB) ![Typescript](https://img.shields.io/badge/typescript-%233178c6?style=for-the-badge&logo=Typescript&logoColor=%23FFFFFF&labelColor=%233178c6)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&labelColor=%23F7DF1E) 
+
+
+
 
 <!--
 **jiwony3758/jiwony3758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
