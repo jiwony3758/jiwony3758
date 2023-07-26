@@ -1,4 +1,4 @@
-### 프론트엔드 개발자 이지원입니다.
+### 프론트엔드 개발자
 
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%23000000&labelColor=%2361DAFB) ![Typescript](https://img.shields.io/badge/typescript-%233178c6?style=for-the-badge&logo=Typescript&logoColor=%23FFFFFF&labelColor=%233178c6)
 ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E) ![Nextjs](https://img.shields.io/badge/Nextjs-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF&labelColor=%23000000)
