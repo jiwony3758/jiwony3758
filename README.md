@@ -1,7 +1,11 @@
-### 프론트엔드 개발자
+ I'm Jiwon Lee
 
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=%23000000&labelColor=%2361DAFB) ![Typescript](https://img.shields.io/badge/typescript-%233178c6?style=for-the-badge&logo=Typescript&logoColor=%23FFFFFF&labelColor=%233178c6)
 ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E) ![Nextjs](https://img.shields.io/badge/Nextjs-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF&labelColor=%23000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwony3758&layout=compact)
+
+[![jiwony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwony3758)](https://github.com/anuraghazra/github-readme-stats&show_icons=tru&theme=tokyonight)
 
 
 <!--
