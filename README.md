@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwony3758&layout=compact)
 
-[![jiwony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwony3758)](https://github.com/anuraghazra/github-readme-stats&show_icons=tru&theme=tokyonight)
+[![jiwony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwony3758)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
